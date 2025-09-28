@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/landing-fabio/static/css/main.39e58c43.css",
-    "main.js": "/landing-fabio/static/js/main.4815b439.js",
+    "main.js": "/landing-fabio/static/js/main.118ec8aa.js",
     "static/js/453.c57f2c39.chunk.js": "/landing-fabio/static/js/453.c57f2c39.chunk.js",
     "index.html": "/landing-fabio/index.html",
     "main.39e58c43.css.map": "/landing-fabio/static/css/main.39e58c43.css.map",
-    "main.4815b439.js.map": "/landing-fabio/static/js/main.4815b439.js.map",
+    "main.118ec8aa.js.map": "/landing-fabio/static/js/main.118ec8aa.js.map",
     "453.c57f2c39.chunk.js.map": "/landing-fabio/static/js/453.c57f2c39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39e58c43.css",
-    "static/js/main.4815b439.js"
+    "static/js/main.118ec8aa.js"
   ]
 }
