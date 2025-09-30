@@ -1,5 +1,5 @@
 const projects = [
-  { title: "Mappa Bianca", desc: "Progetto pilota full-stack: mappa interattiva con gestione dati.", link: "https://Vival18.github.io/mappa-bianca" },
+  { title: "Mappa Bianca", desc: "Progetto sviluppato per dimostrare competenze in React, sviluppo front-end e gestione dati.", link: "https://Vival18.github.io/mappa-bianca" },
   { title: "Plugin WordPress", desc: "Plugin autoprodotto per visualizzazione contenuti personalizzati.", link: "https://github.com/Vival18/archaeomap" },
   { title: "Portfolio personale", desc: "Vetrina dei miei lavori e delle mie competenze.", link: "https://github.com/Vival18/vival18" },
   { title: "Restyling siti web", desc: "Progetti di UI/UX e responsive design per siti moderni.", link: "https://vival18.github.io/forte-rivoli/" }
